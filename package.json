@@ -1,0 +1,8 @@
+{
+  "name": "jalwa-wingo-ai-pro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automatic Wingo 1-minute results dashboard with transparent statistics",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
